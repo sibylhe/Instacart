@@ -5,7 +5,7 @@ Kraggle competition hosted by grocery ordering and delivery app Instacart.  Data
 Datasets available: https://www.kaggle.com/c/instacart-market-basket-analysis/data  
 
 References:  
-2nd place solution by @kazuki-onodera  
+2nd place solution by @ONODERA   
 Light GBM by @paulantoine  
 F1 score optimization by @Faron  
 12th place solution by @plantsgo
